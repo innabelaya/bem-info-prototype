@@ -36,6 +36,7 @@
 1. BEMHTML intro – 2
 1. Быстрый старт с project-stub – 2
 1. Форум
+1. API блоков и живые примеры
 1. http://ru.bem.info/method/filesystem/
 1. http://ru.bem.info/articles/borschik/
 1. http://ru.bem.info/articles/bem-for-small-projects/
@@ -83,4 +84,4 @@
 
 ### Приведи примеры проектов с хорошей, понятной, на твой взгляд, документацией, которая дала тебе возможность прочесть и начать пользоваться:
 
-Результаты [тут](../siite-principles.md)
+Результаты [тут](siite-principles.md)
